@@ -1,0 +1,7 @@
+{
+  "name": "AI",
+  "description": "A real-time voice assistant powered by the Gemini API. Engage in natural, spoken conversations and see the live transcription on screen, accompanied by a dynamic audio visualizer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
